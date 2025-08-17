@@ -1,2 +1,10 @@
-# Multiplication-App
- 🔢 **Math Multiplication App** An interactive game for practicing multiplication tables, developed in HTML, CSS, and JavaScript.
+## 🚀 Features
+- Random multiplication generation
+- Immediate feedback (correct/wrong answer)
+- Score counter
+- Simple and intuitive interface
+
+## 🛠️ Technologies
+- **HTML5**
+- **CSS3** (Flexbox, Animations)
+- **JavaScript** (Math.random, DOM Manipulation)
